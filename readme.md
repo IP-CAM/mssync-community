@@ -17,7 +17,7 @@ Versioning is the same as in OpenCart - Major.minor.feature.patch
 
 The module was not automatically tested.
 
-Authors: tiredfingers@yandex.ru.
+Authors: tiredfingers@yandex.ru
 
 ---
 
